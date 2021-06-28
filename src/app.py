@@ -17,6 +17,17 @@ class Application:
         """this function does something"""        
         pass
 
+    def do_some_new_feature(self, your_number, your_string):
+        """this is a great new feature with
+
+        Args:
+            your_number (int): hello
+            your_string (str): hello2
+        """
+
+        ;lkjf;lskjdf
+        pass
+
 
 def something():
     """does another things
