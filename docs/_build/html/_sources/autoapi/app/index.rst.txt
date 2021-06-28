@@ -1,0 +1,45 @@
+:mod:`app`
+==========
+
+.. py:module:: app
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   app.Application
+
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   app.something
+
+
+
+.. class:: Application
+
+
+   this is my application
+       
+
+   .. method:: do_something(self, your_number: int) -> str
+
+      this function does something
+
+
+
+.. function:: something()
+
+   does another things
+       
+
+
