@@ -24,8 +24,6 @@ class Application:
             your_number (int): hello
             your_string (str): hello2
         """
-
-        ;lkjf;lskjdf
         pass
 
 
