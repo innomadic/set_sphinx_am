@@ -53,7 +53,7 @@ html_static_path = ['_static']
 
 
 
-#extensions.append('autoapi.extension')
+extensions.append('autoapi.extension')
 
-#autoapi_type = 'python'
-#autoapi_dirs = ['../src']
+autoapi_type = 'python'
+autoapi_dirs = ['../src']
